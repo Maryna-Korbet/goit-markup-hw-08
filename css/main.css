@@ -37,6 +37,7 @@
 
 .link {
   text-decoration: none;
+  cursor: pointer;
 }
 
 .current {
@@ -553,6 +554,7 @@ body {
 }
 
 .mobile-menu__contact-tel {
+  display: flex;
   font-family: var(--font-family-primary);
   font-size: 34px;
   font-weight: 500;
@@ -592,6 +594,7 @@ body {
 }
 
 /*----Tablet------*/
+/*--------------------------------------------------------------*/
 /*
 .mobile-menu__content {
   display: flex;
