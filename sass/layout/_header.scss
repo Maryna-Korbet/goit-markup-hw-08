@@ -8,6 +8,8 @@
 .header {
   background-color: #ffffff;
   border-bottom: 1px solid #ececec;
+  margin-top: -10px;
+  margin-bottom: -10px;
 }
 .header-container {
   position: relative;
@@ -134,7 +136,7 @@
   .navigation {
     display: flex;
     align-items: center;
-    /*justify-content: space-between;*/
+    justify-content: space-between;
   }
   .navigation__list {
     display: flex;
